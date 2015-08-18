@@ -25,6 +25,7 @@ Things you may want to cover:
 
 ## New_Options is file that was made with -T or skipping testing options
 
+## Heroku app assignment-27-static-pages
 
 Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
